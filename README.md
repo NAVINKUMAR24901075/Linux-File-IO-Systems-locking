@@ -154,7 +154,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![Alt text](image-1.png)
+<img width="851" height="870" alt="image" src="https://github.com/user-attachments/assets/20f68117-c5e2-4958-bc16-229b06ad85d8" />
+
 
 
 
